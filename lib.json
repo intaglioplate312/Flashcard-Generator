@@ -1,0 +1,51 @@
+[{
+        "type": "BasicCard",
+        "front": "What are the colors of our flag?",
+        "back": "Red, White, and Blue"
+    },
+    {
+        "type": "ClozeCard",
+        "text": "The Speaker of the House of Representatives becomes President of the United States if the President and the Vice-President should die?",
+        "cloze": "The Speaker of the House of Representatives"
+    },
+    {
+        "type": "BasicCard",
+        "front": "How many stars are there in our flag?",
+        "back": "50"
+    },
+    {
+        "type": "BasicCard",
+        "front": "What do the stars on the flag mean?",
+        "back": "One for each state in the union."
+    },
+    {
+        "type": "ClozeCard",
+        "text": "The first 10 amendments of the Constitution are known as the Bill of Rights",
+        "cloze": "Bill of Rights"
+    },
+    {
+        "type": "BasicCard",
+        "front": "Who is the Vice-President of the United States today?",
+        "back": "Mike Pence"
+    },
+    {
+        "type": "ClozeCard",
+        "text": "The President, cabinet, and departments under the cabinet members are the executive branch of our government?",
+        "cloze": "executive branch"
+    },
+    {
+        "type": "BasicCard",
+        "front": "Can the Constitution be changed?",
+        "back": "Yes"
+    },
+    {
+        "type": "ClozeCard",
+        "text": "There are 27 changes or amendments are there to the Constitution?.",
+        "cloze": "27"
+    },
+    {
+        "type": "ClozeCard",
+        "text": "An amendment is a change to the Constitution?",
+        "cloze": "amendment"
+    }
+]
