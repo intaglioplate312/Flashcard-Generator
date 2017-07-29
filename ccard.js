@@ -1,10 +1,12 @@
 //Node module that exports a constructor for creating cloze-deletion flashcards, e.g.:
+var ClozeCard = new ClozeCard('The first 10 amendments of the Constitution are known as the Bill of Rights',
+    'Bill of Rights');
 // The constructor should accept two arguments: `text` and `cloze`.
 function ClozeCard(text, cloze) {
     //  The constructed object should have a `cloze` property that contains _only_ the cloze-deleted portion of the text.
     this.text = text.split(cloze);
     this.cloze = cloze;
-
+    console.log(this.text, this.cloze);
 };
 //  The constructed object should have a `partial` property that contains _only_ the partial text.
 
