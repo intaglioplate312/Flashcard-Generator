@@ -6,13 +6,15 @@ var firstPresident = new BasicCard(
 function BasicCard(front, back) {
     // The constructed object should have a `front` property that contains the text on the front of the card.
     this.front = front;
-    console.log(this.front);
+    //console.log(this.front);
     // The constructed object should have a `back` property that contains the text on the back of the card.
     this.back = back;
-    console.log(this.back);
+    //console.log(this.back);
 };
 
-
-
-//     `module.exports = BasicCard;`
+// "Who was the first president of the United States?"
+console.log(firstPresident.front);
+// "George Washington"
+console.log(firstPresident.back);
 //module.exports = BasicCard;
+`module.exports = BasicCard;`
